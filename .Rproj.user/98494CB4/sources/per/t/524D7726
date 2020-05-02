@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588363381418.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2735357344",
+    "id" : "524D7726",
+    "lastKnownWriteTime" : 1588363403,
+    "last_content_update" : 1588363403536,
+    "path" : "~/ZapleczeIT/Ry/shiny-regressor/test.csv",
+    "project_path" : "test.csv",
+    "properties" : {
+        "cursorPosition" : "0,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
