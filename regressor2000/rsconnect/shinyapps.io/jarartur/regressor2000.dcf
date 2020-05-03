@@ -5,8 +5,8 @@ account: jarartur
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2225997
-bundleId: 3091601
+bundleId: 3094216
 url: https://jarartur.shinyapps.io/regressor2000/
-when: 1588363840.91077
+when: 1588440151.72866
 asMultiple: FALSE
 asStatic: FALSE

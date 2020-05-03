@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2735357344",
+    "hash" : "3135465660",
     "id" : "524D7726",
-    "lastKnownWriteTime" : 1588363403,
-    "last_content_update" : 1588363403536,
+    "lastKnownWriteTime" : 1588434121,
+    "last_content_update" : 1588434121169,
     "path" : "~/ZapleczeIT/Ry/shiny-regressor/test.csv",
     "project_path" : "test.csv",
     "properties" : {
-        "cursorPosition" : "0,1",
+        "cursorPosition" : "4,6",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },

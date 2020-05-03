@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2781285148",
+    "hash" : "2056078788",
     "id" : "FDC369C3",
-    "lastKnownWriteTime" : 1588363733,
-    "last_content_update" : 1588363733958,
+    "lastKnownWriteTime" : 1588440065,
+    "last_content_update" : 1588440065448,
     "path" : "~/ZapleczeIT/Ry/shiny-regressor/regressor2000/app.R",
     "project_path" : "regressor2000/app.R",
     "properties" : {
-        "cursorPosition" : "6,0",
+        "cursorPosition" : "13,0",
         "scrollLine" : "0"
     },
     "read_only" : false,
