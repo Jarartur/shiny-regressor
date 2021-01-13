@@ -1,4 +1,4 @@
-# shiny-regressor
+# Shiny Regressor
  Simple shiny app for creating regression plot.
 ## How it works
 Users can:
