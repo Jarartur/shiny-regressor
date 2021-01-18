@@ -1,5 +1,7 @@
 # Shiny Regressor
  Simple shiny app for creating regression plot.
+ 
+The page will show error at the beginning. Simply upload your file with 2 columns and it will show a plot.
 ## How it works
 Users can:
  - Upload their own file in CSV format, choose separator and decimal.
